@@ -221,9 +221,9 @@ Setiap class memiliki tanggung jawab yang berbeda sesuai fungsi masing-masing se
 
 ## Author
 
-**Nama** : Yabes Paskah Sinaga
+**Nama** : I Ketut Yogi Apriana Merta
 
-**NIM** : 2515101107
+**NIM** : 2515101024
 
 **Program Studi** : Ilmu Komputer
 
